@@ -42,4 +42,5 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 - **Email**: pc1079677@gmail.com
-- **LinkedIn**: [[Your Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prakash-singh-8a6b18338/))
+- **LinkedIn**: [[My Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prakash-singh-8a6b18338/))]
+- 
